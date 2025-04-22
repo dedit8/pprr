@@ -5,9 +5,6 @@
   "projects": {
     "appTurnos": {
       "root": "",
-            "root": "",
-      "root": "",
-
       "sourceRoot": "src",
       "projectType": "application",
       "prefix": "app",
